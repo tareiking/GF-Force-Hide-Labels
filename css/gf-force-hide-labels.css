@@ -1,0 +1,6 @@
+.hidden_label .gfield_label {
+    visibility:hidden;
+    line-height:0;
+    height:0;
+    margin: 0 !important;
+}
